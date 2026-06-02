@@ -19,9 +19,10 @@ Coming soon...
 
 ### User
 
-1. User can tokens by cryptocurrency.
-2. User not pay any fees (exclude fee blockchain).
-3. User forward pays directly to broker (user can see transaction in self crypto wallet) with crypto smart contract. 
+1. User - is simple user\client for this service.
+2. User can buy tokens by cryptocurrency.
+3. User not pay any fees (exclude fee blockchain).
+4. User forward pays directly to broker (user can see transaction in self crypto wallet) with crypto smart contract. 
 
 ### Provider
 
