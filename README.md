@@ -2,7 +2,7 @@
 
 ## Idea
 
-1. User buy subscriptions by LLM models. User not burn all tokens by subscription. User can sell this limit.
+1. User buy subscriptions by LLM models. User not burn all tokens by subscription. User can sell these tokens.
 2. User not possible buy subscription by dollar. User can buy tokens by cryptocurrency.
 
 ## Realisation
