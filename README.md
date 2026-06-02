@@ -43,4 +43,5 @@ Coming soon...
 4. Container builder - docker
 5. App orchestrator - k8s
 6. Database - postgres
-7. Proxy server - nginx
+7. Cache - redis
+8. Proxy server - nginx
